@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Catalog</string>
+    <string name="header_title">Каталог услуг</string>
+    <string name="add_text">+</string>
+    <string name="hello_blank_fragment">Тут будет список</string>
+    <string name="add_item_text">Добавление услуги</string>
+    <string name="add_title_text">Название</string>
+    <string name="add_price_text">Цена</string>
+    <string name="add_url_text">Ссылка</string>
+    <string name="add_img_text">Изображение</string>
+    <string name="add_title_hint">Введите название</string>
+    <string name="add_price_hint">Введите цену</string>
+    <string name="add_url_hint">Введите ссылку</string>
+    <string name="add_img_hint">Введите ссылку на изображение</string>
+    <string name="add_btn_text">Добавить</string>
+    <string name="clear_btn_text">Очистить</string>
+    <string name="call_card_text">Позвонить</string>
+</resources>
